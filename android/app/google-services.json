@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "450196185438",
+    "project_id": "promart-9bf8f",
+    "storage_bucket": "promart-9bf8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450196185438:android:553e6ee6bae4d14758afcf",
+        "android_client_info": {
+          "package_name": "com.example.flutterprojects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450196185438-tp1h7b3rho3ogetg6roljkgehgvnqsfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPUyo7oOyvDlnlcRLEAaR-mkf6i9qS3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450196185438-tp1h7b3rho3ogetg6roljkgehgvnqsfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450196185438:android:8d6b224882e9f3f158afcf",
+        "android_client_info": {
+          "package_name": "com.example.promart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450196185438-0k214a70f3t99455ejp7q8mhuerakedp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.promart",
+            "certificate_hash": "876a3a4383cc82e6bc896e9a12ffe4c10515f7a4"
+          }
+        },
+        {
+          "client_id": "450196185438-tp1h7b3rho3ogetg6roljkgehgvnqsfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPUyo7oOyvDlnlcRLEAaR-mkf6i9qS3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450196185438-tp1h7b3rho3ogetg6roljkgehgvnqsfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450196185438:android:01413d35fcc8c37058afcf",
+        "android_client_info": {
+          "package_name": "com.example.promart.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450196185438-tp1h7b3rho3ogetg6roljkgehgvnqsfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPUyo7oOyvDlnlcRLEAaR-mkf6i9qS3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450196185438-tp1h7b3rho3ogetg6roljkgehgvnqsfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
